@@ -1,0 +1,29 @@
+{
+  "author": {
+    "name": "Shaun Landis",
+    "email": "slandis@gmai.com",
+    "url": "http://github.com/slandis"
+  },
+  "name": "netcan",
+  "version": "0.0.1",
+  "description": "SocketCAN Interface",
+  "main": "netcan.js",
+  "homepage": "https://github.com/slandis/node-netcan",
+  "license": {
+    "type": "ISC",
+    "url": "https://github.com/slandis/node-netcan/LICENSE"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/slandis/node-netcan.git"
+  },
+  "engines": {
+    "node": ">=0.12.9"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  }
+}
